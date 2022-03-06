@@ -1,9 +1,21 @@
 h1 {
-    padding-bottom:1em;
+    padding-bottom: 1em;
 }
+
 div.content {
-    margin:3em;
+    margin: 3em;
     margin-left: auto;
     margin-right: auto;
     width: 30em
+}
+
+div#mediaContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 600;
+}
+
+div.iframeContainer {
+    margin-bottom: 5em;
 }
